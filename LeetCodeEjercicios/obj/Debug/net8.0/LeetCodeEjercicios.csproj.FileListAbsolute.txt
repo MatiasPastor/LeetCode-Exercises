@@ -1,0 +1,14 @@
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\bin\Debug\net8.0\LeetCodeEjercicios.exe
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\bin\Debug\net8.0\LeetCodeEjercicios.deps.json
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\bin\Debug\net8.0\LeetCodeEjercicios.runtimeconfig.json
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\bin\Debug\net8.0\LeetCodeEjercicios.dll
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\bin\Debug\net8.0\LeetCodeEjercicios.pdb
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\obj\Debug\net8.0\LeetCodeEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\obj\Debug\net8.0\LeetCodeEjercicios.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\obj\Debug\net8.0\LeetCodeEjercicios.AssemblyInfo.cs
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\obj\Debug\net8.0\LeetCodeEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\obj\Debug\net8.0\LeetCodeEjercicios.dll
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\obj\Debug\net8.0\refint\LeetCodeEjercicios.dll
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\obj\Debug\net8.0\LeetCodeEjercicios.pdb
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\obj\Debug\net8.0\LeetCodeEjercicios.genruntimeconfig.cache
+C:\Users\Matias\Desktop\Proyectos C#\LeetCodeEjercicios\LeetCodeEjercicios\obj\Debug\net8.0\ref\LeetCodeEjercicios.dll
