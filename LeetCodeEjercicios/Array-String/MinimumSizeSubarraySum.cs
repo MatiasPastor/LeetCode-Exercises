@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCodeEjercicios.Array_String
+namespace LeetCodeEjercicios
 {
     public class MinimumSizeSubarraySum
     {
